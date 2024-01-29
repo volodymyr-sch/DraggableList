@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DraggableList</string>
+    <string name="horizontal_list">Horizontal</string>
+    <string name="vertical_list">LazyList</string>
+    <string name="grid_list">Grid</string>
+    <string name="drag_and_release">ComplexList</string>
+</resources>
